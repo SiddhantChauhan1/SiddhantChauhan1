@@ -2,10 +2,11 @@
 
 - 👀 **I’m a Full Stack Web Developer and C++/Python Programmer**
 - 🌱 **Currently Working on**: Machine Learning with Python.
-- 💼 **Internship**: Full Stack Web Development Intern at Zidio
 - 🚀 **I've built multiple Projects like Applications, ML models and full stack web apps**
 - 💡 **I specialise in C++, Python and MERN Stack**
-- 📫 **Contact me** on [LinkedIn](https://www.linkedin.com/in/siddhantc01/).
+
+### Connect with me on 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantc01/)
 
 ---
 
@@ -33,10 +34,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddhantChauhan1&theme=radical)
 
-![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantChauhan1&show_icons=true&theme=radical)
-
-<!---![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=SiddhantChauhan1&theme=react-dark) --->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantChauhan1&layout=compact&theme=radical)
 
 
 
