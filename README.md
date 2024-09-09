@@ -18,6 +18,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![MERN Stack](https://img.shields.io/badge/MERN-4CAF50?style=for-the-badge&logo=node.js&logoColor=white)
 ![MEAN Stack](https://img.shields.io/badge/MEAN_Stack-000000?style=for-the-badge&logo=angular&logoColor=white)
