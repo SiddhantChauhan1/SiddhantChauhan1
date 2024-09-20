@@ -1,7 +1,7 @@
 ### 👋 Hi there! My name is Siddhant Singh Chauhan
 
 - 👀 I’m a **Full Stack Web Developer** and **C++/Python Programmer**
-- 🌱 **I'm Currently Working on**: Machine Learning with Python.
+- 🌱 **I'm Currently Working on**: Machine Learning with Python
 - 🚀 I've built multiple Projects like **Applications, ML Models** and **MERN Stack Web Apps**
 
 ### Connect with me on 
